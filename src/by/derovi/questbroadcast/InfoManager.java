@@ -1,9 +1,7 @@
 package by.derovi.questbroadcast;
 
-import net.md_5.bungee.log.BungeeLogger;
-
 /**
- * Created by User on 19.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class InfoManager {
     public static void exception(String str) {

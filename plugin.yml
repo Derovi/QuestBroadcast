@@ -1,5 +1,5 @@
 main: by.derovi.questbroadcast.QuestBroadcast
-version: 0.11.13
+version: 0.11.21
 name: QuestBroadcast
 commands:
    questbroadcast:

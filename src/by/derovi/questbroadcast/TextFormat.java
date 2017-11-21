@@ -1,7 +1,7 @@
 package by.derovi.questbroadcast;
 
 /**
- * Created by User on 20.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class TextFormat {
     public static String format(String string) {

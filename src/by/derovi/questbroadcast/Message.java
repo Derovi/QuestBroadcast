@@ -1,10 +1,9 @@
 package by.derovi.questbroadcast;
 
-import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by User on 19.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class Message {
     private List<String> text;

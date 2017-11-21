@@ -12,7 +12,7 @@ import java.io.InputStream;
 import java.nio.file.Files;
 
 /**
- * Created by User on 13.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class QuestBroadcast extends Plugin {
     public static File configFile;

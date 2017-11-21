@@ -8,7 +8,7 @@ import net.md_5.bungee.api.connection.ProxiedPlayer;
 import java.util.Collection;
 
 /**
- * Created by User on 19.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class Broadcast {
     public static void broadcastMessage(String server, String message) {

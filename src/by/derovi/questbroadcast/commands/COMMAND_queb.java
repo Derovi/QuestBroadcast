@@ -1,19 +1,12 @@
 package by.derovi.questbroadcast.commands;
 
-import by.derovi.questbroadcast.Broadcast;
 import by.derovi.questbroadcast.QuestBroadcast;
 import net.md_5.bungee.api.CommandSender;
-import net.md_5.bungee.api.ProxyServer;
-import net.md_5.bungee.api.Title;
-import net.md_5.bungee.api.chat.TextComponent;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import net.md_5.bungee.api.plugin.Command;
-import net.md_5.bungee.command.ConsoleCommandSender;
-
-import java.util.Collection;
 
 /**
- * Created by User on 13.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class COMMAND_queb extends Command{
     public COMMAND_queb(String name) {

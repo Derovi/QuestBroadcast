@@ -7,7 +7,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by User on 19.11.2017.
+ * Created by derovi on 21.11.2017.
  */
 public class MessageSet {
     private List<String> servers;
