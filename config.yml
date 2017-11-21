@@ -1,0 +1,23 @@
+sets:
+  set1:
+    servers:
+    - Auth
+    interval: 10
+    prefix: "&4[QUEB] &e"
+    messages:
+      1:
+        text:
+        - "&11"
+        - "&22"
+        - "&33"
+        title: "&atitle"
+        subtitle: "&csubtitle"
+      2:
+        text:
+        - "&13"
+        - "&31"
+        title: "&atitle - 2"
+      3:
+        text:
+        - "2"
+        subtitle: "&csubtitle - 4"

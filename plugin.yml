@@ -1,0 +1,6 @@
+main: by.derovi.questbroadcast.QuestBroadcast
+version: 0.11.13
+name: QuestBroadcast
+commands:
+   questbroadcast:
+      aliases: [queb]
